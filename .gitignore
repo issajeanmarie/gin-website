@@ -14,3 +14,7 @@
 public
 resources
 node_modules
+.hugo_build.lock
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
